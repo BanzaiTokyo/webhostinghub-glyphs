@@ -4,3 +4,4 @@ panda
 koala
 poop
 kiwi
+bulb lamp

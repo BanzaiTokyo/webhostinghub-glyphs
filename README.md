@@ -1,6 +1,6 @@
 #WebHostingHub Glyphs
 ====================
-WebHostingHub Glyphs is the most comprehensive set of glyph icons available as font currently containing over 1500 glyphs. The goal is to be fully compatible with Bootstrap and other frameworks and CMSs. It will be constantly updated so if you have ideas for new icons, do let us know.
+WebHostingHub Glyphs is the most comprehensive set of glyph icons available as font currently containing over 1900 glyphs. The goal is to be fully compatible with Bootstrap and other frameworks and CMSs. It will be constantly updated so if you have ideas for new icons, do let us know.
 
 The full suite of pictographic icons, examples, and documentation ad well as icons in PNG format can be found at:
 http://www.webhostinghub.com/glyphs/
